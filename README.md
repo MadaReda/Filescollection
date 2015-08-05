@@ -1,4 +1,4 @@
-firstGame
+Packager
 =========
 
-This is my first game using CreateJS
+This is C# packager using C#
